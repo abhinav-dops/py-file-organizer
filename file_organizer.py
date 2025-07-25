@@ -1,5 +1,5 @@
 import os
-import shut
+import shutil
 from datetime import datetime
 
 log_file = "organizer.log"
